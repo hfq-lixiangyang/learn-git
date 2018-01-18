@@ -21,7 +21,11 @@
         <entry file="file://$PROJECT_DIR$/a.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
+<<<<<<< HEAD
               <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+=======
+              <caret line="0" column="4" lean-forward="true" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+>>>>>>> parent of da63653... 002
               <folding />
             </state>
           </provider>
@@ -31,13 +35,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/a.txt" />
-      </list>
-    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -113,12 +110,20 @@
       <option name="presentableId" value="Default" />
       <updated>1516270786708</updated>
       <workItem from="1516270788493" duration="63000" />
+<<<<<<< HEAD
       <workItem from="1516270940975" duration="142000" />
+=======
+      <workItem from="1516270940975" duration="6000" />
+>>>>>>> parent of da63653... 002
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="205000" />
+=======
+    <option name="totallyTimeSpent" value="69000" />
+>>>>>>> parent of da63653... 002
   </component>
   <component name="ToolWindowManager">
     <frame x="-1374" y="93" width="1382" height="784" extended-state="0" />
@@ -156,7 +161,11 @@
     <entry file="file://$PROJECT_DIR$/a.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
+<<<<<<< HEAD
           <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+=======
+          <caret line="0" column="4" lean-forward="true" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+>>>>>>> parent of da63653... 002
           <folding />
         </state>
       </provider>
